@@ -13,6 +13,6 @@ The CNN achieved the following metrics on the CIFAR-10 test set:
 - **Test F1 Score**: 82.00%, reflecting the balance between precision (correct positive predictions) and recall (retrieved relevant instances) across all 10 classes.
 
 
-These metrics demonstrate the robustness of the CNN model. They essentially indicate that the model performs well in predicting each class in the dataset. However, the performance, while solid, could be further improved. The state-of-the-art Vision Transformer (ViT-H/14) model achieves a top-1 accuracy of 99.5% on CIFAR-10. Achieving similar levels of performance would require a more complex neural network, which would be computationally expensive.
+These metrics indicate that the model performs well in predicting each class in the dataset. However, the performance, while solid, could be further improved. The state-of-the-art Vision Transformer (ViT-H/14) model achieves a top-1 accuracy of 99.5% on CIFAR-10. Achieving similar levels of performance would require a more complex neural network, which would be computationally expensive.
 
-In this project, striking a balance between model complexity, resource requirements, and performance was crucial.
+In this project, striking a balance between model complexity, resource requirements, and performance was the priority.
